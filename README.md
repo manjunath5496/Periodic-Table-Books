@@ -36,22 +36,22 @@
                 <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 13. A World from Dust: How the Periodic Table Shaped Life By Ben McFarland</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 14. Halogens and Noble Gases By Monica Halka</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(14).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 15. Nonmetals By Brian Nordstrom</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(15).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
 16. The Lost Elements: The Periodic Table's Shadow Side By Marco Fontani</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(16).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 17. Transition Metals By Brian Nordstrom</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(17).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                                 
 18. The Last Sorcerers: The Path from Alchemy to the Periodic Table By Richard Morris</br>
-                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>     
+                <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per(18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>     
                 
                 
                 
