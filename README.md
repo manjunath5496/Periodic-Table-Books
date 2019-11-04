@@ -21,7 +21,7 @@
                 
      
 8.  The Periodic Table Book: A Visual Encyclopedia of the Elements</br>
-                <a href="https://drive.google.com/file/d/1KIaaDnR2AFm16vSKVadI9yXze6d6OxWY/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/The-Periodic-Table-Book-A-Visual-Encyclopedia-of-the-Elements-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 9. Handbook of the Elements By Samuel Ruben</br>
               <a href="https://github.com/manjunath5496/Periodic-Table-Books/blob/master/per9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
